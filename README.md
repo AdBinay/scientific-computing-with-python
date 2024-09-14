@@ -3,4 +3,4 @@ The Scientific Computing with Python (Beta) curriculum will equip you with the s
 ![image](https://github.com/user-attachments/assets/cc906a1c-140b-4d0b-ba8d-206af477f1ad)
 
 
-This comprehensive course will guide you through the fundamentals of scientific computing, including data structures, and algorithms.
+This comprehensive course will guide you through the fundamentals of scientific computing, including data structures, and algorithms..
